@@ -1,0 +1,9 @@
+/Applications/Projects/spring-boot-1/src/main/java/com/example/repository/TaskRepository.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/controllers/ToDoController.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/models/Task.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/utils/ReloadableProperties.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/service/impl/ToDoServiceImpl.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/services/ToDoService.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/exceptions/TaskNotFoundException.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/Application.java
+/Applications/Projects/spring-boot-1/src/main/java/com/example/dto/TaskDTO.java

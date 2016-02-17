@@ -1,0 +1,1 @@
+{"@timestamp":"2016-02-09T11:07:34.431-08:00","@version":1,"message":"testing, entering method","logger_name":"com.example.controllers.UserController","thread_name":"http-nio-8000-exec-3","level":"INFO","level_value":20000,"HOSTNAME":"68.140.240.221","clientid":"clientvalue","requstid":"requestvalue"}

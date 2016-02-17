@@ -1,0 +1,18 @@
+src/main/java/controllers/Application.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/controllers/Application.java:10:	headerCommentRequirement Required
+src/main/java/controllers/Application.java:12:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/controllers/Application.java:12:	Found 'UR'-anomaly for variable 'beanName' (lines '12'-'20').
+src/main/java/controllers/Application.java:12:	Parameter 'args' is not assigned and could be declared final
+src/main/java/controllers/Application.java:12:	publicMethodCommentRequirement Required
+src/main/java/controllers/Application.java:13:	Local variable 'ctx' could be declared final
+src/main/java/controllers/Application.java:15:	System.out.println is used
+src/main/java/controllers/Application.java:17:	Local variable 'beanNames' could be declared final
+src/main/java/controllers/Application.java:17:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/controllers/Application.java:19:	Local variable 'beanName' could be declared final
+src/main/java/controllers/Application.java:20:	System.out.println is used
+src/main/java/controllers/HelloController.java:7:	Each class should declare at least one constructor
+src/main/java/controllers/HelloController.java:7:	headerCommentRequirement Required
+src/main/java/controllers/HelloController.java:10:	publicMethodCommentRequirement Required
+src/main/java/models/Task.java:8:	Avoid short class names like Task
+src/main/java/models/Task.java:8:	Each class should declare at least one constructor
+src/main/java/models/Task.java:8:	headerCommentRequirement Required
